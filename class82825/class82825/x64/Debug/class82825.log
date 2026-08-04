@@ -1,0 +1,7 @@
+﻿  goto.cpp
+C:\Users\cmortiz\OneDrive - New Mexico Highlands University\Desktop\Classes\C++\class82825\class82825\goto.cpp(5,10): error C2143: syntax error: missing ';' before ')'
+C:\Users\cmortiz\OneDrive - New Mexico Highlands University\Desktop\Classes\C++\class82825\class82825\goto.cpp(5,12): error C2143: syntax error: missing ';' before '{'
+C:\Users\cmortiz\OneDrive - New Mexico Highlands University\Desktop\Classes\C++\class82825\class82825\goto.cpp(5,12): error C2143: syntax error: missing ')' before '{'
+C:\Users\cmortiz\OneDrive - New Mexico Highlands University\Desktop\Classes\C++\class82825\class82825\goto.cpp(7,13): error C2065: 'cout': undeclared identifier
+C:\Users\cmortiz\OneDrive - New Mexico Highlands University\Desktop\Classes\C++\class82825\class82825\goto.cpp(7,37): error C2065: 'endl': undeclared identifier
+C:\Users\cmortiz\OneDrive - New Mexico Highlands University\Desktop\Classes\C++\class82825\class82825\goto.cpp(2,12): error C1075: '{': no matching token found
